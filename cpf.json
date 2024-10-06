@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cpf": "123.456.789-01",
+        "cpf": "12345678901",
         "nome": "Sofia",
         "sobrenome": "Alcântara",
         "cidade": "Mogi das Cruzes",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "cpf": "987.654.321-02",
+        "cpf": "98765432102",
         "nome": "Laura Sayuri",
         "sobrenome": "Terukina",
         "cidade": "São Paulo",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "cpf": "456.789.123-03",
+        "cpf": "45678912303",
         "nome": "Vinicius",
         "sobrenome": "Félix",
         "cidade": "Rio de Janeiro",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "cpf": "321.654.987-04",
+        "cpf": "32165498704",
         "nome": "João Victor",
         "sobrenome": "Rodrigues",
         "cidade": "Belo Horizonte",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "cpf": "147.258.369-05",
+        "cpf": "14725836905",
         "nome": "Marina",
         "sobrenome": "Scheineder",
         "cidade": "Curitiba",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "cpf": "963.852.741-06",
+        "cpf": "96385274106",
         "nome": "Tailyni",
         "sobrenome": "Satirio",
         "cidade": "Salvador",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "cpf": "159.753.486-07",
+        "cpf": "15975348607",
         "nome": "Livia",
         "sobrenome": "Godoy",
         "cidade": "Fortaleza",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "cpf": "753.159.864-08",
+        "cpf": "75315986408",
         "nome": "Yasmin",
         "sobrenome": "Ribeiro",
         "cidade": "Brasília",
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "cpf": "258.147.369-09",
+        "cpf": "25814736909",
         "nome": "João Pedro",
         "sobrenome": "Figueira",
         "cidade": "Manaus",
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "cpf": "369.258.147-10",
+        "cpf": "36925814710",
         "nome": "Otávio",
         "sobrenome": "Vinicius",
         "cidade": "Porto Alegre",
