@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "cpf": "123.456.789-01",
+        "nome": "Sofia",
+        "sobrenome": "Alcântara",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Brasil"
+    },
+    {
+        "id": 2,
+        "cpf": "987.654.321-02",
+        "nome": "Laura Sayuri",
+        "sobrenome": "Terukina",
+        "cidade": "São Paulo",
+        "pais": "Brasil"
+    },
+    {
+        "id": 3,
+        "cpf": "456.789.123-03",
+        "nome": "Vinicius",
+        "sobrenome": "Félix",
+        "cidade": "Rio de Janeiro",
+        "pais": "Brasil"
+    },
+    {
+        "id": 4,
+        "cpf": "321.654.987-04",
+        "nome": "João Victor",
+        "sobrenome": "Rodrigues",
+        "cidade": "Belo Horizonte",
+        "pais": "Brasil"
+    },
+    {
+        "id": 5,
+        "cpf": "147.258.369-05",
+        "nome": "Marina",
+        "sobrenome": "Scheineder",
+        "cidade": "Curitiba",
+        "pais": "Brasil"
+    },
+    {
+        "id": 6,
+        "cpf": "963.852.741-06",
+        "nome": "Tailyni",
+        "sobrenome": "Satirio",
+        "cidade": "Salvador",
+        "pais": "Brasil"
+    },
+    {
+        "id": 7,
+        "cpf": "159.753.486-07",
+        "nome": "Livia",
+        "sobrenome": "Godoy",
+        "cidade": "Fortaleza",
+        "pais": "Brasil"
+    },
+    {
+        "id": 8,
+        "cpf": "753.159.864-08",
+        "nome": "Yasmin",
+        "sobrenome": "Ribeiro",
+        "cidade": "Brasília",
+        "pais": "Brasil"
+    },
+    {
+        "id": 9,
+        "cpf": "258.147.369-09",
+        "nome": "João Pedro",
+        "sobrenome": "Figueira",
+        "cidade": "Manaus",
+        "pais": "Brasil"
+    },
+    {
+        "id": 10,
+        "cpf": "369.258.147-10",
+        "nome": "Otávio",
+        "sobrenome": "Vinicius",
+        "cidade": "Porto Alegre",
+        "pais": "Brasil"
+    }
+]
